@@ -1,0 +1,5 @@
+/Users/kartik/Desktop/vector_database/vectorDB/target/debug/deps/libtokio_native_tls-73245f403ff13697.rmeta: /Users/kartik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-native-tls-0.3.1/src/lib.rs
+
+/Users/kartik/Desktop/vector_database/vectorDB/target/debug/deps/tokio_native_tls-73245f403ff13697.d: /Users/kartik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-native-tls-0.3.1/src/lib.rs
+
+/Users/kartik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-native-tls-0.3.1/src/lib.rs:
